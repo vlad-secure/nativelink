@@ -3,7 +3,6 @@ module github.com/TraceMachina/nativelink/native-cli
 
 go 1.22.1
 
-
 require (
 	github.com/docker/docker v27.0.3+incompatible
 	github.com/go-git/go-git/v5 v5.12.0
@@ -156,3 +155,14 @@ require (
 	sigs.k8s.io/structured-merge-diff/v4 v4.4.1 // indirect
 	sigs.k8s.io/yaml v1.4.0 // indirect
 )
+
+
+
+
+
+
+
+
+
+
+
